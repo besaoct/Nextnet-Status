@@ -1,8 +1,6 @@
-# NEXTNET STATUS
+# NEXTNS.tsx
 
 --------
-
-Format markdown->html post content with Syntax Highlighting using highlight.js
 
 `{
   "name": "nextnet-status",

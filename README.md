@@ -1,8 +1,6 @@
-# NEXTNET STATUS
+# NEXTNS.`tsx`
 
 --------
-
-Format markdown->html post content with Syntax Highlighting using highlight.js
 
 `{
   "name": "nextnet-status",
@@ -15,7 +13,7 @@ Format markdown->html post content with Syntax Highlighting using highlight.js
 git clone https://github.com/blackipie/Nextnet-Status.git 
 ```
 
-**Want to test it? Turn off the Wifi/Internet connection and then connect back to the network.**
+## ***`Want to test it? Turn off the Wifi/Internet connection and then connect back to the network.`***
 
 --------
 
